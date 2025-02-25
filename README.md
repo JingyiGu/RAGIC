@@ -54,3 +54,17 @@ RAGIC employs a **GAN model** to generate diverse **future price sequences** by 
 ---
 
 The code will be released soon.
+
+
+## Citation
+If you use this work for your research, please kindly cite our paper:
+```
+@article{gu2025ragic,
+  title={RAGIC: Risk-Aware Generative Framework for Stock Interval Construction},
+  author={Gu, Jingyi and Du, Wenlu and Wang, Guiling},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2025},
+  publisher={IEEE},
+  doi={10.1109/TKDE.2025.3533492}
+}
+```
