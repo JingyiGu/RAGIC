@@ -27,7 +27,7 @@ RAGIC employs a **GAN model** to generate diverse **future price sequences** by 
 - **Latent Space Randomness**: Introduces stochasticity throughout the model layers, ensuring realistic financial variability.  
 
 <p align="center">
-  <img src="assets/sequence_generation.png" width="600">
+  <img src="asset/sequence_generation.png" width="600">
 </p>
 
 ---
@@ -38,7 +38,7 @@ RAGIC employs a **GAN model** to generate diverse **future price sequences** by 
 - A **wider interval** signals higher market volatility, aiding in **risk assessment and hedging strategies**.  
 
 <p align="center">
-  <img src="assets/interval_construction.png" width="600">
+  <img src="asset/interval_construction.png" width="600">
 </p>
 
 ---
