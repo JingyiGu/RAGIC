@@ -3,6 +3,8 @@
 [![Paper (IEEE TKDE 2025)](https://img.shields.io/badge/Paper-TKDE%202025-blue)](https://ieeexplore.ieee.org/abstract/document/10885039)  
 [![ArXiv Version](https://img.shields.io/badge/ArXiv-2402.10760-red)](https://arxiv.org/abs/2402.10760)  
 
+🚀 **RAGIC has been accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025!** 🎉  
+
 ## 🔹 Overview  
 
 RAGIC (**R**isk-**A**ware **G**enerative model for **I**nterval **C**onstruction) is a novel deep learning framework designed for **stock market interval prediction**, addressing the **stochastic nature of financial markets**. Unlike traditional point prediction, RAGIC forecasts a **price range** (lower and upper bounds), providing **uncertainty-aware and risk-sensitive predictions**.  
